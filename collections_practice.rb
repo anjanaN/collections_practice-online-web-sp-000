@@ -40,7 +40,7 @@ end
 def kesha_maker(array)
   i = 0
   while i < array.length
-    array[2] = "4"
+    array[2] = "$"
     i += 1
   end
   array
